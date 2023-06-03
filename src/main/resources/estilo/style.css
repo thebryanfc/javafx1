@@ -1,0 +1,122 @@
+#mainpanel{
+    -fx-background-color: red;
+    -fx-spacing: 0;
+}
+#header{
+    -fx-pref-width: 400;
+    -fx-pref-height: 100;
+    -fx-background-color: #3e4756;
+    -fx-border-width: 0px;
+}
+#divider{
+    -fx-pref-width: 400;
+    -fx-pref-height: 20;
+    -fx-background-color: #dedede;
+    -fx-border-width: 0;
+}
+#main{
+    -fx-pref-width: 400;
+    -fx-pref-height: 480;
+    -fx-background-color: #3E4756;
+    -fx-border-width: 0px;
+}
+#touchpanel{
+    -fx-pref-width: 400;
+    -fx-pref-height: 120;
+    -fx-background-color: #f0f815;
+}
+#leftouchpanel{
+    -fx-pref-width: 200;
+    -fx-border-color: red;
+    -fx-padding: 10;
+    -fx-alignment: center-lefet;
+}
+#righTouchpanel{
+    -fx-pref-width: 200;
+    -fx-border-color: green;
+    -fx-padding: 10;
+    -fx-alignment: center-left;
+}
+.headerButton{
+    -fx-pref-width: 100;
+    -fx-pref-height: 100;
+    -fx-background-color: #f0f815;
+    -fx-border-width: 0px;
+}
+#btnsettings{
+    -fx-background-image: url(../img/gear-50.png);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-pref-width: 100;
+    -fx-pref-height: 80;
+    -fx-background-color: #3E4756;
+}
+#touchpanel{
+    -fx-pref-width: 400;
+    -fx-pref-height: 120;
+    -fx-background-color: #3E4756;
+}
+#leftouchpanel{
+    -fx-pref-width: 200;
+    -fx-border-color: red;
+    -fx-padding: 10;
+    -fx-padding: 10;
+    -fx-alignment: center-left;
+}
+#righTouchpanel{
+    -fx-pref-width: 200;
+    -fx-border-color: green;
+    -fx-padding: 10;
+    -fx-alignment: center-left;
+}
+#lblTouchTiltle{
+    -fx-font-family: roboto;
+    -fx-font-weight: bold;
+    -fx-text-fill: #dedede;
+    -fx-font-size: 18px;
+}
+#txtTouchText{
+    -fx-font-family: roboto;
+    -fx-font-weight: 600;
+    -fx-fill: dedede;
+    -fx-font-size: 12px;
+}
+#btnToggle{
+    -fx-background-image: url(../img/toggle-50.png);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-pref-width: 50;
+    -fx-pref-height: 20;
+    -fx-background-color: #3E4756;
+}
+#lblToggle{
+    -fx-font-family: roboto;
+    -fx-font-weight: bold;
+    -fx-text-fill: #dedede;
+    -fx-font-size: 16px;
+}
+#btnuser{
+    -fx-background-image: url(../img/user-50.png);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-pref-width: 100;
+    -fx-pref-height: 80;
+    -fx-background-color: #3E4756;
+}
+#btntrophy{
+    -fx-background-image: url(../img/trophy-50.png);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-pref-width: 100;
+    -fx-pref-height: 80;
+    -fx-background-color: #3E4756;
+}
+#btnpower{
+    -fx-background-image: url(../img/shutdown-50.png);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-pref-width: 100;
+    -fx-pref-height: 80;
+    -fx-background-color: #3E4756;
+}
+
